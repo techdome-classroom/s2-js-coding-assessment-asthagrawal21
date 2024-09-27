@@ -9,7 +9,7 @@ var romanToInt = function(s) {
 
 module.exports={romanToInt}
 
-const romanToInt = function (s) {
+var romanToInt = function (s) {
     const d = {
         I: 1,
         V: 5,
